@@ -1,26 +1,19 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7ae3,100:4b8bff&height=250&section=header&text=Polisetty%20Vyshnavi&fontSize=55&fontColor=ffffff&animation=fadeIn" />
+![Welcome Banner](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&pause=1000&color=00AEEF&center=true&vCenter=true&width=900&lines=Hi+I'm+Polisetty+Vyshnavi!;AI+%7C+Python+Developer+%7C+Web+Developer;Always+Learning+%26+Building+Cool+Stuff)
 
+---
 
 👀 Total Profile Visits 👀  
 ![Visitors](https://komarev.com/ghpvc/?username=VyshnaviPolisetty&color=blue)
 
 ---
 
-
-
-# 👩‍💻 AI & Web Developer | Python Developer  
-🏆 Passionate about AI • ML • Web Development • Computer Vision • NLP  
-🌱 Final Year AI & ML Student | Building Real-World AI Systems
-
----
-
-## 🌟 About Me
-- 🎓 Final Year B.Tech – Artificial Intelligence & Machine Learning  
-- 💡 Interested in AI, ML, Deep Learning, and Web Technologies  
-- 🧠 Skilled in Python, Computer Vision (YOLOv8), NLP & Data Science  
-- 🌐 Building projects with Streamlit, Flask, and modern web tools  
-- 🚀 Goal: Become a strong Software Developer & AI Engineer  
+# 👩‍💻 About Me  
+🎓 Final Year B.Tech — AI & ML  
+💻 Passionate Python & Web Developer  
+🤖 Exploring AI, ML, NLP & Computer Vision  
+📚 Currently building AI-powered systems & dashboards  
+✨ Dream: Become a strong Software Developer & build impactful products  
 
 ---
 
@@ -57,14 +50,9 @@
 📊 ML-based health analytics for women  
 🔗 *(Add GitHub link)*
 
-### 🏥 **Medical Document OCR Scanner**
-📝 Extract text using Tesseract + OpenCV  
-
-
 ## 🌐 Connect With Me
 <p>
 <a href="https://www.linkedin.com/in/polisetty-vyshnavi-75978126a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://github.com/VyshnaviPolisetty"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
 <a href="https://vyshnavis-portfolio-14dbf6c1.base44.app/"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=vercel" /></a>
 </p>
 
@@ -73,5 +61,4 @@
 ## ⚡ Fun Fact  
 I turn **ideas into applications** & bugs into features 😄💻  
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b8bff,100:ff7ae3&height=200&section=footer" />
+

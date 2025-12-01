@@ -40,25 +40,41 @@
 
 ### 🛒 **AI-Powered Retail Inventory Management System**
 🧠 YOLOv8 + Python + Streamlit + Time-Series Forecasting  
-🔗 *(Add GitHub link after uploading)*
 
 ### 🤖 **College Website AI Chatbot**
 💬 NLP + Transformers + Python  
-🔗 *(Add GitHub link)*
 
 ### 🧠 **Women’s Health AI System**
 📊 ML-based health analytics for women  
-🔗 *(Add GitHub link)*
+
+## 📁 See All My Projects  
+<p>
+  <a href="https://github.com/PolisettyVyshnavi?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ## 🌐 Connect With Me
 <p>
-<a href="https://www.linkedin.com/in/polisetty-vyshnavi-75978126a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="https://vyshnavis-portfolio-14dbf6c1.base44.app/"><img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=vercel" /></a>
+<a href="https://www.linkedin.com/in/polisetty-vyshnavi-75978126a/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:vyshnavipolisetty2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://x.com/__Vyshnavi___">
+  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
+</a>
+
+<a href="https://vyshnavis-portfolio-14dbf6c1.base44.app/">
+  <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=vercel" />
+</a>
 </p>
+
 
 ---
 
-## ⚡ Fun Fact  
-I turn **ideas into applications** & bugs into features 😄💻  
 
 

@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
 </a>
 
-<a href="https://vyshnavi-portfolio-1d5eaa64.base44.app/">
+<a href="https://vyshnavi-portfolio-copy-d355ebb8.base44.app/">
   <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=vercel" />
 </a>
 </p>

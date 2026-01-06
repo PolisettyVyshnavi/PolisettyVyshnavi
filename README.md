@@ -3,11 +3,6 @@
 
 ---
 
-👀 Total Profile Visits 👀  
-![Visitors](https://komarev.com/ghpvc/?username=VyshnaviPolisetty&color=blue)
-
----
-
 # 👩‍💻 About Me  
 🎓 Final Year B.Tech — AI & ML  
 💻 Passionate Python & Web Developer  
